@@ -11,4 +11,6 @@ This Excel worksheet calculates 13 Confusion Matrix statistics including the com
 The formulas used for the statistics are given as shown below.
 
 
-![Confusion Matrix Formulas](images/Confusion_Matrix_Calculator_Screenshot_02.png)
+![Confusion Matrix Formulas](images/Confusion_Matrix_Calculator_Screenshot_02a.png)
+
+![Confusion Matrix Formulas](images/Confusion_Matrix_Calculator_Screenshot_03a.png)
