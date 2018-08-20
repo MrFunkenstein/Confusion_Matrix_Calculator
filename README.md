@@ -1,4 +1,4 @@
-# Confusion_Matrix_Calculator
+# Confusion Matrix Calculator
 
 A confusion matrix is a summary of predictions based on a classification problem.  The number of correct and incorrect predictions are summarized with count values and broken down by each class.  The Confusion Matrix Calculator is for a two class problem.
 
