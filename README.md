@@ -4,7 +4,7 @@ A confusion matrix is a summary of predictions based on a classification problem
 
 The confusion matrix shows the ways in which your classification model is confused when it makes predictions.  
 
-This Excel worksheet calculates 13 Confusion Matrix statistics including the commonly used Sensitivity, Specificity, Accuracy and Balanced Accuracy along with many other statistics.  Other calculated statistics are show below.
+This Excel worksheet calculates 13 Confusion Matrix statistics including the commonly used Sensitivity, Specificity, Accuracy and Balanced Accuracy.  Other calculated statistics are show below.
 
 ![Confusion Matrix Statistics Calculated](images/Confusion_Matrix_Calculator_Screenshot_01.png)
 
